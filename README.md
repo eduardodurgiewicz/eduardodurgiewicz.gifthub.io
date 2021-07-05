@@ -1,1 +1,1 @@
-# eduardodurgiewicz.gifthub.io
+# eduardodurgiewicz.github.io
